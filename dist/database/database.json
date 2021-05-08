@@ -1,0 +1,41 @@
+[
+   {
+      "shape": "square",
+      "dimension": "2",
+      "area": 4,
+      "createdAt": "2021-05-08T11:59:01.327Z",
+      "id": 1
+   },
+   {
+      "shape": "circle",
+      "dimension": 10,
+      "area": 314.16,
+      "createdAt": "2021-05-08T14:17:07.195Z",
+      "id": 2
+   },
+   {
+      "shape": "circle",
+      "dimension": "10",
+      "area": 314.16,
+      "createdAt": "2021-05-08T14:17:40.505Z",
+      "id": 3
+   },
+   {
+      "shape": "circle",
+      "dimension": "10",
+      "area": 314.16,
+      "createdAt": "2021-05-08T14:28:28.546Z",
+      "id": 4
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": "10",
+         "b": 12,
+         "c": 13
+      },
+      "area": 776.53,
+      "createdAt": "2021-05-08T14:29:23.322Z",
+      "id": 5
+   }
+]
