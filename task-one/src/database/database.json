@@ -1,0 +1,21 @@
+[
+   {
+      "createdAt": "2021-05-02T14:15:26.960Z",
+      "updatedAt": "2021-05-02T19:31:12.398Z",
+      "organization": "Decagon-uno",
+      "products": [
+         "developers",
+         "pizza"
+      ],
+      "marketValue": "90%",
+      "address": "sangotedo",
+      "ceo": "cn",
+      "country": "Taiwan",
+      "noOfEmployees": 2,
+      "employees": [
+         "james bond",
+         "jackie chan"
+      ],
+      "id": 1
+   }
+]
