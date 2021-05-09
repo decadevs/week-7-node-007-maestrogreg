@@ -2,7 +2,7 @@ import express,{Request, Response, NextFunction} from 'express';
 import Joi from "joi";
 import fs from "fs";
 import path from 'path';
-//import data from '../database/database.json';
+
 let data = require("../database/database.json");
 
 

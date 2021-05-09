@@ -7,7 +7,6 @@ var express_1 = __importDefault(require("express"));
 var joi_1 = __importDefault(require("joi"));
 var fs_1 = __importDefault(require("fs"));
 var path_1 = __importDefault(require("path"));
-//import data from '../database/database.json';
 var data = require("../database/database.json");
 var router = express_1.default.Router();
 /* GET home page. */
