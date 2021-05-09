@@ -75,7 +75,6 @@ function createUser(req, res) {
                 data.push(user);
                 fs_1.default.writeFile(__dirname + "/database/database.json", JSON.stringify(data, null, 3), (function (error) {
                     if (error) {
-                        console.log("error writing file");
                         res.status(400).send("error creating user");
                     }
                 }));

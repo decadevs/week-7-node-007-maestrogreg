@@ -35,6 +35,6 @@ router
     .put(controller_1.updateUser)
     .delete(controller_1.deleteUser);
 app.use("/api/data", router);
-var PORT = process.env.PORT || 3005;
+var PORT = process.env.PORT || 4444;
 var server = app.listen(PORT, function () { return console.log("server is live on " + PORT); });
 module.exports = server;

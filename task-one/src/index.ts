@@ -37,7 +37,7 @@ router
 app.use("/api/data", router);
 
 
-const PORT = process.env.PORT || 3005;
+const PORT = process.env.PORT || 4444;
 
 
 const server = app.listen(PORT,()=> console.log(`server is live on ${PORT}`));
