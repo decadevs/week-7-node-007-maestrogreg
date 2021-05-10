@@ -14,7 +14,7 @@ function triangleArea(a:number,b:number,c:number){
      b =Number(b);
     c = Number(c);
     let perimeter = (a + b +c)/2;
-    let area = (Math.sqrt(perimeter)) * (perimeter - a) * (perimeter - b) * (perimeter - c);
+    let area = Math.sqrt((perimeter) * (perimeter - a) * (perimeter - b) * (perimeter - c));
     area = Number(area.toFixed(2));
     return area;
 }
