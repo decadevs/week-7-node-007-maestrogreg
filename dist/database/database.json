@@ -1,0 +1,327 @@
+[
+   {
+      "shape": "square",
+      "dimension": "2",
+      "area": 4,
+      "createdAt": "2021-05-08T11:59:01.327Z",
+      "id": 1
+   },
+   {
+      "shape": "circle",
+      "dimension": 10,
+      "area": 314.16,
+      "createdAt": "2021-05-08T14:17:07.195Z",
+      "id": 2
+   },
+   {
+      "shape": "circle",
+      "dimension": "10",
+      "area": 314.16,
+      "createdAt": "2021-05-08T14:17:40.505Z",
+      "id": 3
+   },
+   {
+      "shape": "circle",
+      "dimension": "10",
+      "area": 314.16,
+      "createdAt": "2021-05-08T14:28:28.546Z",
+      "id": 4
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": "10",
+         "b": 12,
+         "c": 13
+      },
+      "area": 776.53,
+      "createdAt": "2021-05-08T14:29:23.322Z",
+      "id": 5
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": "10",
+         "b": 12,
+         "c": 1
+      },
+      "area": -26.71,
+      "createdAt": "2021-05-09T17:03:20.359Z",
+      "id": 6
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": "5",
+         "b": 4,
+         "c": 3
+      },
+      "area": 14.7,
+      "createdAt": "2021-05-09T17:03:37.050Z",
+      "id": 7
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": "1",
+         "b": 2,
+         "c": 3
+      },
+      "area": 0,
+      "createdAt": "2021-05-09T17:03:55.897Z",
+      "id": 8
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 2
+      },
+      "area": 2.9,
+      "createdAt": "2021-05-10T14:02:14.916Z",
+      "id": 9
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 3,
+         "b": 4,
+         "c": 8
+      },
+      "area": null,
+      "createdAt": "2021-05-10T14:02:27.169Z",
+      "id": 10
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T18:55:17.586Z",
+      "id": 11
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T18:55:58.353Z",
+      "id": 12
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T18:57:48.752Z",
+      "id": 13
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:02:09.412Z",
+      "id": 14
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:02:48.464Z",
+      "id": 15
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:06:45.452Z",
+      "id": 16
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:07:35.931Z",
+      "id": 17
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:09:35.225Z",
+      "id": 18
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:09:58.047Z",
+      "id": 19
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:15:54.900Z",
+      "id": 20
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:20:05.811Z",
+      "id": 21
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:21:15.020Z",
+      "id": 22
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:23:59.436Z",
+      "id": 23
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:26:22.755Z",
+      "id": 24
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:29:22.458Z",
+      "id": 25
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:29:50.584Z",
+      "id": 26
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:30:42.990Z",
+      "id": 27
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:33:52.209Z",
+      "id": 28
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:36:08.070Z",
+      "id": 29
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:42:09.178Z",
+      "id": 30
+   },
+   {
+      "shape": "triangle",
+      "dimension": {
+         "a": 5,
+         "b": 5,
+         "c": 6
+      },
+      "area": 12,
+      "createdAt": "2021-05-10T19:45:10.719Z",
+      "id": 31
+   }
+]
