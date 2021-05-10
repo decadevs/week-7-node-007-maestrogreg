@@ -13,17 +13,14 @@ const dataFile = require("../dist/database/database.json");
                 .set("Accept", "application/json")
                 .expect("Content-Type", /json/)
                 .expect(200,done);
-        
-
             });
-        });
-        describe('GET /fetchRecords', () => {
-            test("respond with json containing a list of all data", function(done){
+            test("expect 404 for wrong route", function(done){
                 request(app)
                 .get("/fetch")
                 .expect(404,done);
             });
         });
+        
         let data = {
             "shape": "triangle",
             "dimension": {
