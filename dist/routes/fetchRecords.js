@@ -8,7 +8,7 @@ var router = express_1.default.Router();
 var data = require("../database/database.json");
 /* GET users listing. */
 router.get('/fetchRecords', function (req, res, next) {
-    res.status(200).send(data);
+    res.status(200).json(data);
 });
 router.get('/fetchData/:id', function (req, res, next) {
     //let file = data.find((item) => item.id === req.params.id)
